@@ -1,2 +1,3 @@
-# JSON_to_html_table
+# TABLEFY
 Simple javascript library to convert JSON or literal javascript objects to html tables
+
